@@ -1,0 +1,13 @@
+G:\100 Days of Code\Binary To Decimal Conversion\C#\bin\Debug\netcoreapp3.1\C#.exe
+G:\100 Days of Code\Binary To Decimal Conversion\C#\bin\Debug\netcoreapp3.1\C#.deps.json
+G:\100 Days of Code\Binary To Decimal Conversion\C#\bin\Debug\netcoreapp3.1\C#.runtimeconfig.json
+G:\100 Days of Code\Binary To Decimal Conversion\C#\bin\Debug\netcoreapp3.1\C#.runtimeconfig.dev.json
+G:\100 Days of Code\Binary To Decimal Conversion\C#\bin\Debug\netcoreapp3.1\C#.dll
+G:\100 Days of Code\Binary To Decimal Conversion\C#\bin\Debug\netcoreapp3.1\C#.pdb
+G:\100 Days of Code\Binary To Decimal Conversion\C#\obj\Debug\netcoreapp3.1\C#.csprojAssemblyReference.cache
+G:\100 Days of Code\Binary To Decimal Conversion\C#\obj\Debug\netcoreapp3.1\C#.AssemblyInfoInputs.cache
+G:\100 Days of Code\Binary To Decimal Conversion\C#\obj\Debug\netcoreapp3.1\C#.AssemblyInfo.cs
+G:\100 Days of Code\Binary To Decimal Conversion\C#\obj\Debug\netcoreapp3.1\C#.csproj.CoreCompileInputs.cache
+G:\100 Days of Code\Binary To Decimal Conversion\C#\obj\Debug\netcoreapp3.1\C#.dll
+G:\100 Days of Code\Binary To Decimal Conversion\C#\obj\Debug\netcoreapp3.1\C#.pdb
+G:\100 Days of Code\Binary To Decimal Conversion\C#\obj\Debug\netcoreapp3.1\C#.genruntimeconfig.cache
