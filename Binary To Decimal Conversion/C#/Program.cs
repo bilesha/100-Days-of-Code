@@ -30,7 +30,7 @@ class GFG
         return dec_value;
     }
 
-    static bool isbin(string s)
+    public static bool isbin(string s)
         {
             foreach (var c in s)
                 if (c != '0' && c != '1')
@@ -42,7 +42,6 @@ class GFG
         {
         Console.WriteLine("Enter a binary number:");
         int num = Convert.ToInt32(Console.ReadLine());
-
         System.Console.Write(binaryToDecimal(num));
         }   
 
